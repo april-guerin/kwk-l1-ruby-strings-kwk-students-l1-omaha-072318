@@ -14,7 +14,7 @@ date = "October 31"
 other_date = "October 30"
 
 puts "At what time?"
-time = gets.chomp
+time = "6pm"
 
 puts "Who is the host?"
 host_name = "Harry Potter"
